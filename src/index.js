@@ -54,7 +54,7 @@ function Namelist(props) {
 
                 <div className="image1"><img src={props.image} alt="" /></div>
                 <div className="name">
-                    <h1>{props.name} </h1>
+                    <h4>{props.name} </h4>
                     <p>{props.dec} </p></div>
                 <div className="dt">
                     <p>11:26</p>
